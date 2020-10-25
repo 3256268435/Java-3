@@ -20,7 +20,11 @@
   ### 4、用this给每一个变量赋值
   ### 5、在test中输出所有结果
 
-# 四、核心方法
+# 四、流程图
+
+![结果](https://github.com/3256268435/Java-3/blob/main/%E6%B5%81%E7%A8%8B%E5%9B%BE.png)
+
+# 五、核心方法
 ``` package thirdjava;
 
 public class test {
@@ -57,9 +61,9 @@ public class test {
 
 ```
 
-# 五、实验结果
+# 六、实验结果
 
 ![结果](https://github.com/3256268435/Java-3/blob/main/%E7%BB%93%E6%9E%9C.png)
 
-# 六、实验感想
+# 七、实验感想
 通过这次实验学会了使用extend的继承方法，再利用super的方法来调用函数，super方法的使用进一步简化了程序，使程序变得不再复杂。同时也学会了toString的使用方法，public String toString()返回该对象的字符串表示。通常，ToString方法会返回一个“以文本方式表示”此对象的字符串。
